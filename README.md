@@ -1,2 +1,2 @@
 # neuroData
-Hey, brain. What's up?
+My attempt at finding meaning from publicly available neuroscience datasets.
