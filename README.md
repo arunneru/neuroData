@@ -1,2 +1,2 @@
 # neuroData
-My attempt at finding meaning from publicly available neuroscience datasets.
+My attempts at finding meaningful insights from publicly available neuroscience datasets.
